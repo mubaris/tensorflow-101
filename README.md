@@ -1,6 +1,6 @@
 # TensorFlow 101
 
-Introduction to TensorFlow. This associated with [this blog post](https://mubaris.com/2017-10-21/tensorflow-101)
+Introduction to TensorFlow (**Python 3**). This associated with [this blog post](https://mubaris.com/2017-10-21/tensorflow-101)
 
 ## Contents
 
